@@ -19,7 +19,7 @@ Back End Technologies
 ![Express](https://img.shields.io/badge/-Express-black?style=plastic-square&logo=Express)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic-square&logo=postgresql&logoColor=336791
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic-square&logo=postgresql&logoColor=336791)
 
 Testing
 
