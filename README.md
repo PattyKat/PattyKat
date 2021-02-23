@@ -36,5 +36,5 @@ Workflow Tools
 ![GIT](https://img.shields.io/badge/-GIT-black?style=plastic-square&logo=git)
 
 
-![Patrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=PattyKat&show_icons=true&theme=tokyonight)
+![Patrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=PattyKat&show_icons=true&theme=tokyonight&count_private=true)
 
